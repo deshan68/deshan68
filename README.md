@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Show Portfolio  =>  [`https://developbyarun.app`](https://developbyarun-portfolio.netlify.app/) 
+Visit Portfolio  =>  [`https://developbyarun.app`](https://developbyarun-portfolio.netlify.app/) 
 
 
