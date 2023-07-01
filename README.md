@@ -51,27 +51,28 @@
   
 </div>
 
-```yaml
-name: Arun Deshan
-located_in: Sri Lanka
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "B.Sc (Hons) Computing & Information Systems"
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Mobile Development",
-    "UI/UX",
-    "DevOps",
-  ]
-  
-currently_learning: ["Docker , React Native , Nexj.js , Swift"]
-2022 Goals: ["Create 10+ Projects and learn at least 3 new Technologies."]
-hobbies: [ "Cinema", "Comedy" , "Travelling"]
+```javascript
+const deshan68 =
+{
+  name: Arun Deshan,
+  located_in: Sri Lanka,
+  current_job: Full Stack Developer,
+  education:
+    [
+      "Self-Taught Developer and Designer",
+      "B.Sc (Hons) Computing & Information Systems"
+    ],
+  fields_of_interests:
+    [
+      "Web Development",
+      "Mobile Development",
+      "UI/UX",
+      "DevOps",
+    ],
+  currently_learning: ["Docker , React Native , Nexj.js , Swift"],
+  2022 Goals: ["Create 10+ Projects and learn at least 3 new Technologies."],
+  hobbies: [ "Cinema", "Comedy" , "Travelling"]
+}
 ```
   
 ---  
