@@ -53,8 +53,9 @@
   </span>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshan68&show_icons=true&theme=radical)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
