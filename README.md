@@ -30,11 +30,18 @@
   </em>
 </p>
 
-<div align="left">
-  
-  ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshan68&show_icons=true&theme=radical)
+<div align="left" display="flex">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deshan68&layout=compact)
   
 </div>
+
+<div align="left" display="flex">
+  
+  ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshan68&show_icons=true&theme=radical)
+
+</div>
+
 
 ```javascript
 const deshan68 =
