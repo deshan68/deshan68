@@ -11,12 +11,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h5 align="center">
-  Sabaragamuwa University of Sri Lanka
 
-  <p><em> B.Sc (Hons) Computing & Information Systems(UG) in<a href="https://www.sab.ac.lk/">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-</h5>
+<p align="center">
+  <em> B.Sc (Hons) Computing & Information Systems(UG) in<a href="https://www.sab.ac.lk/"> Sabaragamuwa University of Sri Lanka </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"         width="30"> 
+  </em>
+</p>
+
 
 <p align="center">
 <a href="https://developbyarun-portfolio.netlify.app/">
@@ -46,18 +46,46 @@
 <br/>
 
 <div align="center">
-  <span>   
-   
-   Visit My Portfolio  :  [`https://developbyarun.app`](https://developbyarun-portfolio.netlify.app/) 
-   
-  </span>
-</div>
-
-<div align="center">
   
   ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshan68&show_icons=true&theme=radical)
   
 </div>
+
+```yaml
+name: Piyush Malhotra
+located_in: Montreal, Quebec
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes and React Native"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
+  
+---  
 
 <div>
 
