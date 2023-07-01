@@ -1,6 +1,6 @@
-
-
-<img src="https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -12,7 +12,10 @@
 </h1>
 
 <h5 align="center">
-  B.Sc (Hons) Computing & Information Systems(UG) in Sabaragamuwa University of Sri Lanka
+  Sabaragamuwa University of Sri Lanka
+
+  <p><em> B.Sc (Hons) Computing & Information Systems(UG) in<a href="https://www.sab.ac.lk/">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 </h5>
 
 <p align="center">
