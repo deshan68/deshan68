@@ -2,23 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h2>
+  Hi there, I'am Arun Deshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 
-<h1 align="center">
-  Hi there, I'am Arun Deshan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-<p align="center">
-  <em> B.Sc (Hons) Computing & Information Systems(UG) in<a href="https://www.sab.ac.lk/"> Sabaragamuwa University of Sri Lanka </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"         width="30"> 
-  </em>
-</p>
-
-
-<p align="center">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</em></p>
 <a href="https://developbyarun-portfolio.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
@@ -37,15 +26,14 @@
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=deshan68&style=flat-square&color=blue" alt=""/>
+
+<p align="left">
+  <em> B.Sc (Hons) Computing & Information Systems(UG) in<a href="https://www.sab.ac.lk/"> Sabaragamuwa University of Sri Lanka </a>
+  </em>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deshan68&style=flat-square&color=blue" alt=""/>
-</div>
-
-<br/>
-
-<div align="center">
+<div align="left">
   
   ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshan68&show_icons=true&theme=radical)
   
