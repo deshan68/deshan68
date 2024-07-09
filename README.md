@@ -57,7 +57,7 @@ const deshan68 =
       "UI/UX",
       "DevOps",
     ],
-  currently_learning: ["Docker , React Native , Nexj.js , Swift"],
+  currently_learning: ["Docker , React Native , Nexj.js , Ballerina"],
   2022 Goals: ["Create 10+ Projects and learn at least 3 new Technologies."],
   hobbies: [ "Cinema", "Comedy" , "Travelling"]
 }
