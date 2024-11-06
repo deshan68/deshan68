@@ -40,7 +40,7 @@ const deshan68 =
       "UI/UX",
       "DevOps",
     ],
-  currently_learning: ["Docker , React Native , Nexj.js , Ballerina"],
+  currently_learning: ["Docker, .Net, Go],
   hobbies: [ "Cinema", "Comedy" , "Travelling"]
 }
 ```
