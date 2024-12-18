@@ -26,13 +26,10 @@
 ```javascript
 const deshan68 =
 {
-  name: Arun Deshan,
-  located_in: Sri Lanka,
-  current_job: Full Stack Developer,
-  education:
-    [
-      "B.Sc (Hons) Computing & Information Systems"
-    ],
+  name: "Arun Deshan",
+  located_in: "Sri Lanka",
+  current_job: "Full Stack Developer",
+  education: "B.Sc (Hons) Computing & Information Systems",
   fields_of_interests:
     [
       "Web Development",
